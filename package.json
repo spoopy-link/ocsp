@@ -12,9 +12,7 @@
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
-    "asn1.js": "^4.8.0",
-    "asn1.js-rfc2560": "^4.0.0",
-    "asn1.js-rfc5280": "^2.0.0",
+    "asn1.js": "github:spoopy-link/asn1.js",
     "lru-cache": "^4.1.1"
   }
 }
