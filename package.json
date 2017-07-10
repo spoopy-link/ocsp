@@ -1,0 +1,20 @@
+{
+  "name": "ocsp",
+  "version": "1.0.0",
+  "description": "ocsp",
+  "main": "lib/index.js",
+  "scripts": {},
+  "author": "snek <me@gus.host>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spoopy-link/ocsp.git"
+  },
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "asn1.js": "^4.8.0",
+    "asn1.js-rfc2560": "^4.0.0",
+    "asn1.js-rfc5280": "^2.0.0",
+    "lru-cache": "^4.1.1"
+  }
+}
